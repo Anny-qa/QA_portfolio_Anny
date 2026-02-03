@@ -1,10 +1,12 @@
-# 🧪 QA Engineer Portfolio | Анна
+# 🧪 QA Engineer Portfolio | Анастасия Поступальская
 
 <div align="center">
 
-![QA Banner](https://via.placeholder.com/800x200/4A90E2/FFFFFF?text=Quality+Assurance+Portfolio)
+![QA Banner](https://via.placeholder.com/800x200/4A90E2/FFFFFF?text=QA+Engineer+Portfolio+%7C+Анастасия+Поступальская)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/Anny-qa)
-[![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?logo=telegram)](@annypost1)
+[![HeadHunter](https://img.shields.io/badge/HeadHunter-Резюме-red?logo=hh.ru)](https://spb.hh.ru/resume/d7008de9ff0fe546dc0039ed1f487779393775)
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?logo=telegram)](https://t.me/annypost1)
+[![Email](https://img.shields.io/badge/Email-Написать-important?logo=gmail)](mailto:anapostupalskaya@yandex.ru)
 
 </div>
 
@@ -50,7 +52,7 @@
 ## 📁 Проекты
 
 ### 🛒 Проект 1: Тестирование интернет-магазина SauceDemo
-Период: 11 2025  
+Период: Ноябрь 2025  
 Тип тестирования: Функциональное, регрессионное, негативное
 
 <div align="center">
@@ -103,14 +105,13 @@
 ---
 
 ### 🗃️ Проект 3: Работа с базами данных
-Период: Ноябрь 2025
+Период: Ноябрь 2025  
 Тип тестирования: SQL, тестирование данных
 
 Что было сделано:
-- 📝 Написание SQL-запросов 
+- 📝 Написание SQL-запросов различной сложности
 - 🔗 Тестирование связей между таблицами
 - 📊 Проверка целостности данных
-
 
 Артефакты:
 - 💾 [SQL-запросы](sql/sql_queries.sql) (20+ запросов)
@@ -135,14 +136,10 @@
 | Контакт | Ссылка | Статус |
 |---------|--------|--------|
 | 📧 Email | anapostupalskaya@yandex.ru | ✅ Доступен |
-| 💬 Telegram | [@annypost1](https://t.me/@annypost1) | ✅ Доступен |
-| 💼 HeadHunter | [https://spb.hh.ru/resume/d7008de9ff0fe546dc0039ed1f487779393775](https://hh.ru/resume/ваш-id) | ✅ Активно |
+| 💬 Telegram | [@annypost1](https://t.me/annypost1) | ✅ Доступен |
+| 💼 HeadHunter | [Мое резюме](https://spb.hh.ru/resume/d7008de9ff0fe546dc0039ed1f487779393775) | ✅ Активно |
 
 </div>
 
 ---
-
-
-
-
 
