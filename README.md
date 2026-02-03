@@ -1,8 +1,7 @@
-# 🧪 QA Engineer Portfolio | Анастасия Поступальская
+# 🧪 QA Engineer Portfolio | Анна Поступальская
 
 <div align="center">
 
-![QA Banner](https://via.placeholder.com/800x200/4A90E2/FFFFFF?text=QA+Engineer+Portfolio+%7C+Анастасия+Поступальская)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/Anny-qa)
 [![HeadHunter](https://img.shields.io/badge/HeadHunter-Резюме-red?logo=hh.ru)](https://spb.hh.ru/resume/d7008de9ff0fe546dc0039ed1f487779393775)
 [![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?logo=telegram)](https://t.me/annypost1)
@@ -142,4 +141,5 @@
 </div>
 
 ---
+
 
