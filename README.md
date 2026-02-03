@@ -3,9 +3,8 @@
 <div align="center">
 
 ![QA Banner](https://via.placeholder.com/800x200/4A90E2/FFFFFF?text=Quality+Assurance+Portfolio)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/ваш-логин)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](ваша-ссылка)
-[![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?logo=telegram)](ваша-ссылка)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/Anny-qa)
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?logo=telegram)](@annypost1)
 
 </div>
 
@@ -117,21 +116,6 @@
 Артефакты:
 - 💾 [SQL-запросы](sql/sql_queries.sql) (20+ запросов)
 
-## 📊 Метрики тестирования
-
-<div align="center">
-
-| Категория | Показатель | Результат |
-|-----------|------------|-----------|
-| 📈 Покрытие | Чек-листов составлено | 45+ |
-| | Тест-кейсов написано | 40+ |
-| 🐞 Эффективность | Критических багов найдено | 2 |
-| | Всего багов оформлено | 2 |
-| 🔧 Инструменты | Инструментов освоено | 8+ |
-| 📚 Документация | Артефактов создано | 10+ |
-
-</div>
-
 ## 🎓 Образование
 
 ### 🏫 Курсы и обучение
@@ -153,20 +137,10 @@
 |---------|--------|--------|
 | 📧 Email | anapostupalskaya@yandex.ru | ✅ Доступен |
 | 💬 Telegram | [@annypost1](https://t.me/@annypost1) | ✅ Доступен |
-| 💼 HeadHunter | [Ваше резюме]([](https://spb.hh.ru/resume/d7008de9ff0fe546dc0039ed1f487779393775)]) | ✅ Активно |
+| 💼 HeadHunter | [Ваше резюме](https://spb.hh.ru/resume/d7008de9ff0fe546dc0039ed1f487779393775) | ✅ Активно |
 
 </div>
 
 ---
 
-<div align="center">
 
-### ⭐ Не забудьте поставить звезду на репозитории, если портфолио было полезным!
-
-Последнее обновление: Март 2024  
-Статус портфолио: Активно поддерживается
-
-[![GitHub](https://img.shields.io/github/stars/ваш-логин/qa-portfolio?style=social)](https://github.com/ваш-логин/qa-portfolio)
-[![Visitors](https://komarev.com/ghpvc/?username=ваш-логин&color=blue)](https://github.com/ваш-логин)
-
-</div>
