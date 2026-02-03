@@ -136,11 +136,12 @@
 |---------|--------|--------|
 | 📧 Email | anapostupalskaya@yandex.ru | ✅ Доступен |
 | 💬 Telegram | [@annypost1](https://t.me/@annypost1) | ✅ Доступен |
-| 💼 HeadHunter | [Ваше резюме](https://spb.hh.ru/resume/d7008de9ff0fe546dc0039ed1f487779393775) | ✅ Активно |
+| 💼 HeadHunter | [https://spb.hh.ru/resume/d7008de9ff0fe546dc0039ed1f487779393775](https://hh.ru/resume/ваш-id) | ✅ Активно |
 
 </div>
 
 ---
+
 
 
 
