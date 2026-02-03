@@ -131,4 +131,5 @@ newman run collection.json -e environment.json -r cli,html
 
 ---
 
-Коллекция создана для демонстрации навыков API-тестирования
+
+
