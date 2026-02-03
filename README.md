@@ -97,7 +97,7 @@
 - 📊 Анализ структуры JSON-ответов
 
 Артефакты:
-- 📁 [Коллекция Postman](JSONPlaceholder API Tests.postman_collection.json)
+- 📁 [Коллекция Postman](postman/JSONPlaceholder API Tests.postman_collection.json)
 - 📄 [Документация проекта](postman/README.md)
 
 ---
@@ -140,6 +140,7 @@
 </div>
 
 ---
+
 
 
 
