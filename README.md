@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![QA Banner](https://via.placeholder.com/800x200/4A90E2/FFFFFF?text=Quality+Assurance+Portfolio)
+[!QA Banner](https://via.placeholder.com/800x200/4A90E2/FFFFFF?text=Quality+Assurance+Portfolio)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/Anny-qa)
 [![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?logo=telegram)](@annypost1)
 
@@ -35,7 +35,6 @@
 
 ### 💾 Базы данных
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Database Testing](https://img.shields.io/badge/Database_Testing-336791?style=for-the-badge)
 
 ### 🔧 Инструменты
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -142,5 +141,6 @@
 </div>
 
 ---
+
 
 
