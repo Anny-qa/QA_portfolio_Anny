@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[!QA Banner](https://via.placeholder.com/800x200/4A90E2/FFFFFF?text=Quality+Assurance+Portfolio)
+![QA Banner](https://via.placeholder.com/800x200/4A90E2/FFFFFF?text=Quality+Assurance+Portfolio)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/Anny-qa)
 [![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?logo=telegram)](@annypost1)
 
@@ -141,6 +141,7 @@
 </div>
 
 ---
+
 
 
 
