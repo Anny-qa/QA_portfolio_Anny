@@ -78,28 +78,44 @@
 
 ---
 
-### 🔌 Проект 2: API-тестирование JSONPlaceholder
+### 🔌 Проект 2: Автоматизированное API-тестирование с Postman
 Период: Ноябрь 2025  
-Тип тестирования: API, автоматизированное
+Тип тестирования: API, автоматизированное, REST
 
 <div align="center">
 
-![API Testing](https://img.shields.io/badge/API_Testing-7e57c2?style=flat-square)
-![REST](https://img.shields.io/badge/REST_API-43a047?style=flat-square)
-![CRUD](https://img.shields.io/badge/CRUD_Operations-ef5350?style=flat-square)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-0052CC?style=for-the-badge&logo=api)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
 </div>
 
 Что было сделано:
-- 🔗 Тестирование всех CRUD-операций (GET, POST, PUT, DELETE)
-- ⚡ Проверка производительности API
-- ✅ Написание автоматических проверок в Postman
-- 📊 Анализ структуры JSON-ответов
+- ✅ Создана коллекция Postman с 4+ запросами (GET, POST, DELETE)
+- ✅ Написаны автоматические тесты на JavaScript (15+ проверок)
+- ✅ Проверены статус-коды (200, 201), структура JSON, типы данных
+- ✅ Добавлены проверки времени ответа и заголовков
+- ✅ Создана документация проекта
 
 Артефакты:
-- 📁 [Коллекция Postman](postman/JSONPlaceholder_API_Tests.postman_collection.json)
-- 📄 [Документация проекта](postman/README.md)
+- 📁 [Коллекция Postman](Postman_API_Testing/JSONPlaceholder_API_Tests.postman_collection.json) - готовая к импорту
+- 📖 [Документация проекта](Postman_API_Testing/README.md) - инструкции, примеры
+- 🖼 [Скриншоты результатов](Postman_API_Testing/screenshot_collection.png) - визуальные доказательства
 
+Пример теста:
+```javascript
+// Проверка статуса ответа
+pm.test("✅ Статус 200 OK", function () {
+    pm.response.to.have.status(200);
+});
+
+// Проверка структуры данных
+pm.test("✅ Ответ содержит массив постов", function () {
+    const responseData = pm.response.json();
+    pm.expect(responseData).to.be.an("array");
+    pm.expect(responseData.length).to.be.above(0);
+});
 ---
 
 ### 🗃️ Проект 3: Работа с базами данных
@@ -140,6 +156,7 @@
 </div>
 
 ---
+
 
 
 
