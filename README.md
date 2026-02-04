@@ -115,6 +115,7 @@ pm.test("✅ Статус 200 OK", function () {
 pm.test("✅ Ответ содержит массив постов", function () {
     const responseData = pm.response.json();
     pm.expect(responseData).to.be.an("array");
+
     pm.expect(responseData.length).to.be.above(0);
 });
 
@@ -158,6 +159,7 @@ pm.test("✅ Ответ содержит массив постов", function ()
 </div>
 
 ---
+
 
 
 
