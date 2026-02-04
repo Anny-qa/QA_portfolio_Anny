@@ -38,6 +38,7 @@
 
 ### 🔧 Инструменты
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![DevTools](https://img.shields.io/badge/DevTools-61DAFB?style=for-the-badge&logo=firefox)
 ![Charles Proxy](https://img.shields.io/badge/Charles_Proxy-8A2BE2?style=for-the-badge)
@@ -156,6 +157,7 @@ pm.test("✅ Ответ содержит массив постов", function ()
 </div>
 
 ---
+
 
 
 
