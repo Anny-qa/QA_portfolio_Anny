@@ -43,7 +43,7 @@
 5. Откройте любой запрос и нажмите "Send"
 
 ### Способ 2: Прямая ссылка (если загрузите на GitHub)
-[![Run in Postman](https://run.pstmn.io/button.svg)](ваша_ссылка_сюда)
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://anapostupalskaya-483081.postman.co/workspace/%D0%90%D0%BD%D0%BD%D0%B0's-Workspace~6758f9cd-bc2f-4886-8cf8-17c138051f3c/collection/undefined?action=share&creator=51710139&active-environment=51710139-f1eb4490-3a11-4c15-96dd-018c79e0d547)
 
 ## Результаты тестирования
 Все тесты успешно проходят, что подтверждает корректность работы API.
@@ -64,4 +64,5 @@
 
 ## Выводы
 API JSONPlaceholder работает корректно. Автоматические тесты в Postman позволяют быстро проверять функциональность endpoints и валидировать данные.
+
 
